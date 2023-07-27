@@ -6,8 +6,8 @@ Gradio offers intuitive UI to deploy any AI application with fewer lines of code
 This repo shows how you can deploy 5 different AI applications using Gradio.
 
 I have used Huggingface inference API for different models to focus on Gradio deployment than AI model development. You can run these code samples and experiment it on colab as well. You need to set up few things before
-* 1.Create a .env file and have the contents as below
-  * # Development settings
+* Create a .env file and have the contents as below
+  * Development settings
   * HF_API_KEY=
   * HF_API_SUMMARY_BASE=https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6
   * HF_API_NER_BASE=https://api-inference.huggingface.co/models/dslim/bert-base-NER
