@@ -20,3 +20,5 @@ I have used Huggingface inference API for different models to focus on Gradio de
   * PORT4=7904
 
 You can obtain HF_API_KEY by creating an account in Huggingface, you can try out different models from HuggingFace by changing Inference URLs or deploy your own model.
+
+You can learn more about Gradio from https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/
